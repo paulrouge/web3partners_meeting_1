@@ -1,6 +1,6 @@
 # Solidity Safety example
 
-## There is a vulnerability in this code:
+There is a vulnerability in this code:
 
 
 ```solidity
